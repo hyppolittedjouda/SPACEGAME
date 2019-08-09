@@ -1,0 +1,7 @@
+C:\Users\hyppo\OneDrive\Desktop\SPACEGAME\SPACEGAME\bin\Debug\SPACEGAME.exe.config
+C:\Users\hyppo\OneDrive\Desktop\SPACEGAME\SPACEGAME\bin\Debug\SPACEGAME.exe
+C:\Users\hyppo\OneDrive\Desktop\SPACEGAME\SPACEGAME\bin\Debug\SPACEGAME.pdb
+C:\Users\hyppo\OneDrive\Desktop\SPACEGAME\SPACEGAME\obj\Debug\SPACEGAME.csprojAssemblyReference.cache
+C:\Users\hyppo\OneDrive\Desktop\SPACEGAME\SPACEGAME\obj\Debug\SPACEGAME.csproj.CoreCompileInputs.cache
+C:\Users\hyppo\OneDrive\Desktop\SPACEGAME\SPACEGAME\obj\Debug\SPACEGAME.exe
+C:\Users\hyppo\OneDrive\Desktop\SPACEGAME\SPACEGAME\obj\Debug\SPACEGAME.pdb
