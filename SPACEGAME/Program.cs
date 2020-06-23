@@ -353,6 +353,9 @@ namespace SPACEGAME
 
                 //int.TryParse(Console.ReadLine(), out age);
             }
+
+
+
             else
             {
                 Console.WriteLine("You must be at least 18 or less than 60 to play this game. ");
